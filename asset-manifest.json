@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "/maze_guider/static/css/main.cb897f09.css",
-    "main.js": "/maze_guider/static/js/main.a42806e0.js",
+    "main.css": "/maze_guider/static/css/main.7cc90624.css",
+    "main.js": "/maze_guider/static/js/main.336960fe.js",
     "static/js/787.c9f011bb.chunk.js": "/maze_guider/static/js/787.c9f011bb.chunk.js",
     "static/media/Maze Guidance Project.pdf": "/maze_guider/static/media/Maze Guidance Project.01d3edb3d46113299499.pdf",
     "static/media/eebot.png": "/maze_guider/static/media/eebot.80cc12832985ea6c5a36.png",
-    "static/media/logo.svg": "/maze_guider/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/maze_guider/index.html",
-    "main.cb897f09.css.map": "/maze_guider/static/css/main.cb897f09.css.map",
-    "main.a42806e0.js.map": "/maze_guider/static/js/main.a42806e0.js.map",
+    "main.7cc90624.css.map": "/maze_guider/static/css/main.7cc90624.css.map",
+    "main.336960fe.js.map": "/maze_guider/static/js/main.336960fe.js.map",
     "787.c9f011bb.chunk.js.map": "/maze_guider/static/js/787.c9f011bb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb897f09.css",
-    "static/js/main.a42806e0.js"
+    "static/css/main.7cc90624.css",
+    "static/js/main.336960fe.js"
   ]
 }
